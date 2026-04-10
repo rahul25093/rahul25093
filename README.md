@@ -61,7 +61,7 @@ Passionate about building scalable web applications and solving real-world probl
 <tr>
 
 <td>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="481">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="381">
 </td>
 
 <td>
