@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rahul Prajapati</h1>
 
 <h3 align="center">
-BTech CSE Graduate | Software Developer | Backend Enthusiast
+BTech CSE Graduate | Frontend Enthusiast
 </h3>
 
 <p align="center">
@@ -21,7 +21,7 @@ Built a production-ready AI chatbot using the Rasa framework to handle railway p
 </p>
 
 - 🌱 I’m currently learning **React.js, Node.js**  
-- 💬 Ask me about **Python, DSA, Backend Development**  
+- 💬 Ask me about **Python, C++, Web Development**  
 - 📫 How to reach me **rprahul25093@gmail.com**  
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1aCsqJkrXjqBgVjeUvCbHflLUoFrX0M6Y/view?usp=sharing)
 
