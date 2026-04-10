@@ -61,14 +61,14 @@ Passionate about building scalable web applications and solving real-world probl
 <tr>
 
 <td>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="381">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 </td>
 
 <td>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sureshhere/Sureshhere/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sureshhere/Sureshhere/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/Sureshhere/Sureshhere/output/github-contribution-grid-snake.svg" width="481">
+  <img src="https://raw.githubusercontent.com/Sureshhere/Sureshhere/output/github-contribution-grid-snake.svg" width="480">
 </picture>
 </td>
 
