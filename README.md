@@ -69,8 +69,6 @@ Passionate about building scalable web applications and solving real-world probl
 
 <div align="center">
 
-### 🎮 Fun Zone (Code in Action)
-
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
 
 <p>⚡ Debug • Build • Repeat ⚡</p>
