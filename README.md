@@ -55,24 +55,24 @@ Passionate about building scalable web applications and solving real-world probl
 </a>
 </p>
 
-</div>
-
----
-
 <div align="center">
 
 <table>
 <tr>
+
 <td>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="481">
 </td>
 
 <td>
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="400">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sureshhere/Sureshhere/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sureshhere/Sureshhere/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Sureshhere/Sureshhere/output/github-contribution-grid-snake.svg" width="481">
+</picture>
 </td>
+
 </tr>
 </table>
-
-<p>⚡ Debug • Build • Repeat ⚡</p>
 
 </div>
