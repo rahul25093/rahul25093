@@ -4,12 +4,12 @@
 BTech CSE Graduate | Frontend Enthusiast
 </h3>
 
+<h4 align="center">
+Passionate about building scalable web applications and solving real-world problems. 
+</h4>
+
 <p align='center'>
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</p>
-
-<p align="center">
-Passionate about building scalable web applications and solving real-world problems. 
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
