@@ -36,18 +36,10 @@ Passionate about building scalable web applications and solving real-world probl
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul25093&show_icons=true&locale=en&layout=compact" alt="rahul25093" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul25093" alt="rahul25093" />
-    </td>
-  </tr>
-</table>
-
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rahul25093&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rahul25093&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul25093&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
   
@@ -69,7 +61,17 @@ Passionate about building scalable web applications and solving real-world probl
 
 <div align="center">
 
+<table>
+<tr>
+<td>
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+</td>
+
+<td>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="400">
+</td>
+</tr>
+</table>
 
 <p>⚡ Debug • Build • Repeat ⚡</p>
 
