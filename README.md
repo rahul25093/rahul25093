@@ -19,12 +19,13 @@ Passionate about building scalable web applications and solving real-world probl
 <img src="https://komarev.com/ghpvc/?username=rahul25093&label=Profile%20views&color=0e75b6&style=flat" alt="rahul25093" /> 
 </p>
 
-- 🌱 I’m currently learning **React.js, Node.js**  
+- 🌱 I’m currently learning **React.js, Node.js**
+- 👯 I’m looking to collaborate on <b>Full Stack</b> Project   
 - 💬 Ask me about **Python, C++, Web Development**  
 - 📫 How to reach me **rprahul25093@gmail.com**  
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1aCsqJkrXjqBgVjeUvCbHflLUoFrX0M6Y/view?usp=sharing)
 
-<br><br><br><br>
+<br><br><br>
 
 <h2 align="center">🚀 Main Tech Stack</h2>
 
@@ -44,18 +45,29 @@ Passionate about building scalable web applications and solving real-world probl
 
 <div align="center">
   
-<h3 align="center">Connect with me:</h3>
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/rahul-prajapati-49ab9a280" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<div align="center">
+  
+<a href="mailto:rprahul25093@gmail.com" target="_blank">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="50" height="50" style="margin: 20px;" />
 </a>
 
-<a href="https://instagram.com/_rahul_093" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://github.com/rahul25093" target="_blank">
+<img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="50" height="50" style="margin: 20px; background-color:black; border-radius:10px;" />
 </a>
-</p>
 
+<a href="https://www.linkedin.com/in/rahul-prajapati-49ab9a280" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="50" height="50" style="margin: 20px;" />
+</a>
+
+<a href="https://instagram.com/_rahul_093" target="_blank">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50" height="50" style="margin: 20px;" />
+</a>
+
+</div>
+
+<br/>
 <div align="center">
 
 <table>
@@ -77,3 +89,7 @@ Passionate about building scalable web applications and solving real-world probl
 </table>
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
