@@ -12,8 +12,8 @@ Passionate about building scalable web applications and solving real-world probl
  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
-<br><br><br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<br><br><br><br><br>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=rahul25093&label=Profile%20views&color=0e75b6&style=flat" alt="rahul25093" /> 
@@ -24,15 +24,16 @@ Passionate about building scalable web applications and solving real-world probl
 - 📫 How to reach me **rprahul25093@gmail.com**  
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1aCsqJkrXjqBgVjeUvCbHflLUoFrX0M6Y/view?usp=sharing)
 
-<br><br>
+<br><br><br><br>
 
-<div align="center">
+<h2 align="center">🚀 Main Tech Stack</h2>
 
-<h1>🚀 Main Tech Stack</h1>
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,html,css,nodejs,mongodb,mysql,git,linux&perline=6" alt="Tech Stack" /> 
-
-</div>
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=c,cpp,python,js,react,html,css,nodejs,mongodb,mysql,git,linux&perline=6" 
+    style="display: block; margin: auto;"
+  />
+</p>
 
 <br>
 
