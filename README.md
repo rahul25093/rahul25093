@@ -25,9 +25,10 @@ Passionate about building scalable web applications and solving real-world probl
 </p>
 
 - 🌱 I’m currently learning **React.js, Node.js**
-- 👯 I’m looking to collaborate on <b>Full Stack</b> Project   
+- 👯 I’m looking to collaborate on <b>Full Stack</b> Projects   
 - 💬 Ask me about **Python, C++, Web Development**  
 - 📫 How to reach me **rprahul25093@gmail.com**  
+- 🌐 Portfolio: [Visit My Portfolio](https://my-portfolio-25093.vercel.app/)  
 - 📄 Resume: [View Resume](https://drive.google.com/file/d/1aCsqJkrXjqBgVjeUvCbHflLUoFrX0M6Y/view?usp=sharing)
 
 <br><br><br>
