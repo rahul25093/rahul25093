@@ -29,7 +29,7 @@ Passionate about building scalable web applications and solving real-world probl
 - 💬 Ask me about **Python, C++, Web Development**  
 - 📫 How to reach me **rprahul25093@gmail.com**  
 - 🌐 Portfolio: [Visit My Portfolio](https://my-portfolio-25093.vercel.app/)  
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1aCsqJkrXjqBgVjeUvCbHflLUoFrX0M6Y/view?usp=sharing)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/1qcAWA8OfZDGYUkLLrYeCVj_IuadtNvCs/view?usp=sharing)
 
 <br><br><br>
 
