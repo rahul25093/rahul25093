@@ -50,28 +50,31 @@ Passionate about building scalable web applications and solving real-world probl
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul25093&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <div align="center">
-  
+ 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
-
-<div align="center">
   
-<a href="mailto:rprahul25093@gmail.com" target="_blank">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="50" height="50" style="margin: 20px;" />
+<p align="center">
+
+<a href="mailto:rprahul25093@gmail.com">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/rahul25093">
+  <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="50" style="background-color:black; border-radius:10px;"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/rahul-prajapati-49ab9a280">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="50"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/_rahul_093">
+  <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50"/>
 </a>
 
-<a href="https://github.com/rahul25093" target="_blank">
-<img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" width="50" height="50" style="margin: 20px; background-color:black; border-radius:10px;" />
-</a>
-
-<a href="https://www.linkedin.com/in/rahul-prajapati-49ab9a280" target="_blank">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="50" height="50" style="margin: 20px;" />
-</a>
-
-<a href="https://instagram.com/_rahul_093" target="_blank">
-<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="50" height="50" style="margin: 20px;" />
-</a>
-
-</div>
+</p>
 
 <br/>
 <div align="center">
